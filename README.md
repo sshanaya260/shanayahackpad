@@ -1,2 +1,2 @@
-# shanayahub
+# shanayahackpad
 Hub PCB
